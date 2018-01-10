@@ -1,2 +1,2 @@
 # Hello-World
-just a start,ignoring this project plz!
+just a start,ignore this project plz!
